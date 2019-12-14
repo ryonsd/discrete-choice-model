@@ -1,7 +1,5 @@
-# Discrete Choice Model
-
-## Python
+# Implemented model
 * Multinomial Logit Model
+* Mixed Multinomial Logit Model
 
-## R with mlogit
-* Multinomial Logit Model
+# References
